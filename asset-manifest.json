@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ihor-doroschenko/cam-cube/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ihor-doroschenko/cam-cube/static/js/main.7fb8af66.chunk.js",
-    "main.js.map": "/ihor-doroschenko/cam-cube/static/js/main.7fb8af66.chunk.js.map",
-    "runtime-main.js": "/ihor-doroschenko/cam-cube/static/js/runtime-main.8820b630.js",
-    "runtime-main.js.map": "/ihor-doroschenko/cam-cube/static/js/runtime-main.8820b630.js.map",
-    "static/js/2.dca53e12.chunk.js": "/ihor-doroschenko/cam-cube/static/js/2.dca53e12.chunk.js",
-    "static/js/2.dca53e12.chunk.js.map": "/ihor-doroschenko/cam-cube/static/js/2.dca53e12.chunk.js.map",
-    "index.html": "/ihor-doroschenko/cam-cube/index.html",
-    "precache-manifest.343979bcf8e5afda387d9c850cd54d3d.js": "/ihor-doroschenko/cam-cube/precache-manifest.343979bcf8e5afda387d9c850cd54d3d.js",
-    "service-worker.js": "/ihor-doroschenko/cam-cube/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/ihor-doroschenko/cam-cube/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.dca53e12.chunk.js.LICENSE.txt": "/ihor-doroschenko/cam-cube/static/js/2.dca53e12.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/ihor-doroschenko/cam-cube/static/media/logo.5d5d9eef.svg"
+    "main.css": "/cam-cube/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cam-cube/static/js/main.c6679f01.chunk.js",
+    "main.js.map": "/cam-cube/static/js/main.c6679f01.chunk.js.map",
+    "runtime-main.js": "/cam-cube/static/js/runtime-main.f57e8781.js",
+    "runtime-main.js.map": "/cam-cube/static/js/runtime-main.f57e8781.js.map",
+    "static/js/2.dca53e12.chunk.js": "/cam-cube/static/js/2.dca53e12.chunk.js",
+    "static/js/2.dca53e12.chunk.js.map": "/cam-cube/static/js/2.dca53e12.chunk.js.map",
+    "index.html": "/cam-cube/index.html",
+    "precache-manifest.e5b383c5ff04cf94c1996e6bd124eeef.js": "/cam-cube/precache-manifest.e5b383c5ff04cf94c1996e6bd124eeef.js",
+    "service-worker.js": "/cam-cube/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cam-cube/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dca53e12.chunk.js.LICENSE.txt": "/cam-cube/static/js/2.dca53e12.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cam-cube/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8820b630.js",
+    "static/js/runtime-main.f57e8781.js",
     "static/js/2.dca53e12.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7fb8af66.chunk.js"
+    "static/js/main.c6679f01.chunk.js"
   ]
 }
