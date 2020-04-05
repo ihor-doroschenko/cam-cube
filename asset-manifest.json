@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cam-cube/static/css/main.8435f52c.chunk.css",
-    "main.js": "/cam-cube/static/js/main.ad6fde6a.chunk.js",
-    "main.js.map": "/cam-cube/static/js/main.ad6fde6a.chunk.js.map",
+    "main.js": "/cam-cube/static/js/main.6b117894.chunk.js",
+    "main.js.map": "/cam-cube/static/js/main.6b117894.chunk.js.map",
     "runtime-main.js": "/cam-cube/static/js/runtime-main.f57e8781.js",
     "runtime-main.js.map": "/cam-cube/static/js/runtime-main.f57e8781.js.map",
     "static/js/2.88a11a8f.chunk.js": "/cam-cube/static/js/2.88a11a8f.chunk.js",
     "static/js/2.88a11a8f.chunk.js.map": "/cam-cube/static/js/2.88a11a8f.chunk.js.map",
     "index.html": "/cam-cube/index.html",
-    "precache-manifest.84f77269465c20e6ea9bcd7919bae7dc.js": "/cam-cube/precache-manifest.84f77269465c20e6ea9bcd7919bae7dc.js",
+    "precache-manifest.8aaf10445b599d05d5d39c40dd7226e5.js": "/cam-cube/precache-manifest.8aaf10445b599d05d5d39c40dd7226e5.js",
     "service-worker.js": "/cam-cube/service-worker.js",
     "static/css/main.8435f52c.chunk.css.map": "/cam-cube/static/css/main.8435f52c.chunk.css.map",
     "static/js/2.88a11a8f.chunk.js.LICENSE.txt": "/cam-cube/static/js/2.88a11a8f.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.f57e8781.js",
     "static/js/2.88a11a8f.chunk.js",
     "static/css/main.8435f52c.chunk.css",
-    "static/js/main.ad6fde6a.chunk.js"
+    "static/js/main.6b117894.chunk.js"
   ]
 }
