@@ -1,31 +1,47 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d59680e064229a8d432e4d3ad274ee1",
+    "revision": "06857dc73d14d3c7bcb485b106b21e58",
     "url": "/cam-cube/index.html"
   },
   {
-    "revision": "4a3b169381df7e6896dc",
-    "url": "/cam-cube/static/css/main.ab8db209.chunk.css"
+    "revision": "b53f28cadaf747aecc2f",
+    "url": "/cam-cube/static/css/main.898645a9.chunk.css"
   },
   {
-    "revision": "e8e9e3ded66ba0b52943",
-    "url": "/cam-cube/static/js/2.bc4169bb.chunk.js"
+    "revision": "3ee1320b17b1b88e1e30",
+    "url": "/cam-cube/static/js/2.3e00177a.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/cam-cube/static/js/2.bc4169bb.chunk.js.LICENSE.txt"
+    "url": "/cam-cube/static/js/2.3e00177a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4a3b169381df7e6896dc",
-    "url": "/cam-cube/static/js/main.7a991d40.chunk.js"
+    "revision": "b53f28cadaf747aecc2f",
+    "url": "/cam-cube/static/js/main.93634ff4.chunk.js"
   },
   {
     "revision": "a8936244ee59e7eb6b9f",
     "url": "/cam-cube/static/js/runtime-main.f57e8781.js"
   },
   {
+    "revision": "52f76c0c34664e8e8d61c0017486a0a7",
+    "url": "/cam-cube/static/media/AERONET.52f76c0c.png"
+  },
+  {
     "revision": "1fbbebd61a48912c81acc4f0e6410baa",
     "url": "/cam-cube/static/media/CamCubeMain.1fbbebd6.png"
+  },
+  {
+    "revision": "2be5e21bf77fbac1a2c7ccacaaa6dd94",
+    "url": "/cam-cube/static/media/Polarimeter.2be5e21b.png"
+  },
+  {
+    "revision": "d4dda8afb8ebe85f5bd2a599b15599aa",
+    "url": "/cam-cube/static/media/Rakete.d4dda8af.gif"
+  },
+  {
+    "revision": "06d574f599bf69647c684b971e826961",
+    "url": "/cam-cube/static/media/ferntransport.06d574f5.jpg"
   },
   {
     "revision": "6b0e768a73a9cd624302398a2753703f",
@@ -46,5 +62,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a756497db1d5009d9c4d768dc37987c4",
     "url": "/cam-cube/static/media/sixth.a756497d.jpg"
+  },
+  {
+    "revision": "95715f5510cb481170d954fa2795c2e3",
+    "url": "/cam-cube/static/media/unilogo.95715f55.jpg"
   }
 ]);
