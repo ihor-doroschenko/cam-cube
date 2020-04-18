@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca1413a054f4f8c095efcc39f5d5794c",
+    "revision": "1e804f7c433cd1f9764ca67174e4c911",
     "url": "/cam-cube/index.html"
   },
   {
-    "revision": "19703b75e5e85329def7",
-    "url": "/cam-cube/static/css/main.701dca86.chunk.css"
+    "revision": "a654b420511542296d22",
+    "url": "/cam-cube/static/css/main.fb404e69.chunk.css"
   },
   {
     "revision": "ab5cf3967864ec0eba2b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cam-cube/static/js/2.ef2e7f45.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19703b75e5e85329def7",
+    "revision": "a654b420511542296d22",
     "url": "/cam-cube/static/js/main.7d170cf7.chunk.js"
   },
   {
