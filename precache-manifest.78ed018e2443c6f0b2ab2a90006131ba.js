@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f790a334ee28f8cb757dca34e921af5",
+    "revision": "897ec46f435efb4e0dfb6bab1a1f432c",
     "url": "/cam-cube/index.html"
   },
   {
-    "revision": "b53f28cadaf747aecc2f",
-    "url": "/cam-cube/static/css/main.898645a9.chunk.css"
+    "revision": "a472d70e5610345b7c80",
+    "url": "/cam-cube/static/css/main.24f9f04e.chunk.css"
   },
   {
-    "revision": "3ee1320b17b1b88e1e30",
-    "url": "/cam-cube/static/js/2.3e00177a.chunk.js"
+    "revision": "ab5cf3967864ec0eba2b",
+    "url": "/cam-cube/static/js/2.ef2e7f45.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/cam-cube/static/js/2.3e00177a.chunk.js.LICENSE.txt"
+    "url": "/cam-cube/static/js/2.ef2e7f45.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b53f28cadaf747aecc2f",
-    "url": "/cam-cube/static/js/main.93634ff4.chunk.js"
+    "revision": "a472d70e5610345b7c80",
+    "url": "/cam-cube/static/js/main.7d170cf7.chunk.js"
   },
   {
     "revision": "a8936244ee59e7eb6b9f",
