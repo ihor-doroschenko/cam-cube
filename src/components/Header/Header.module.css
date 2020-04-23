@@ -1,0 +1,26 @@
+.header {
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr 1fr 1fr;
+    gap: 1px;
+    padding-bottom: 1px;
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    background-color: white;
+    height: 10%;
+}
+.header li {
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    list-style-type: none;
+    border-bottom: 1px solid white;
+}
+.header li:nth-child(3) {
+    font-size: 3rem;
+    cursor: text;
+}
